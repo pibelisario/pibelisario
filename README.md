@@ -11,7 +11,7 @@
 
 - 📫 Email: **pibelisario@gmail.com**
 
-- ⚡ **Eu sou formado em Gestão da Tecnologia da informação pela faculdade Senac GO e também me formei recentemente em Eng. Civil, porem em uma conversa informal que tive com um amigo programador ele me motivou o estudar um pouco de programação em específico java e foi quando peguei gosto pela are-a e decidi buscar oportunidades.**
+- ⚡ **Eu sou formado em  Eng. Civil**
 
 - <h3 align="left">Projetos:</h3>
 <p align="left">Para saber mais sobre meus conhecimentos listo aqui três de meus principais projetos: </p>
